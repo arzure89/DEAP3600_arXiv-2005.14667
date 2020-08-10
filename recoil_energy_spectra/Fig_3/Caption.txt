@@ -1,0 +1,7 @@
+====================================================================================================
+FIG. 3. Recoil spectra for m_χ=100 GeV/c2 and SHM, using the following cross sections:
+O1 (3.7×10−45 cm2,red),
+O3 (2.1×10−40 cm2, green),
+O5 (2.9×10−36 cm2,purple),
+O8 (1.9×10−38 cm2,blue),
+O11 (2.3×10−42 cm2, orange)

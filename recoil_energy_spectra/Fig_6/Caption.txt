@@ -1,0 +1,3 @@
+====================================================================================================
+FIG. 6. Recoil spectra for m_χ=100 GeV/c2 and SHM with IS, IV, and XP couplings, and the following 
+cross sections: O1(3.7×10−45 cm2, red), O8(1.9×10−38 cm2, blue), and O11(2.3×10−42 cm2, orange).
